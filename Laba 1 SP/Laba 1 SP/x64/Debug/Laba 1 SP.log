@@ -1,0 +1,110 @@
+﻿  Laba 1 SP.cpp
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(15,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(17,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(17,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(17,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(18,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(18,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(18,17): error C2065: ebx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(19,13): error C2065: add: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(19,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(19,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(19,22): error C2065: ebx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(20,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(20,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(20,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(20,20): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(21,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(27,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(29,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(29,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(29,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(30,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(30,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(30,17): error C2065: ebx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(31,13): error C2065: sub: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(31,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(31,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(31,22): error C2065: ebx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(32,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(32,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(32,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(32,20): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(33,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(39,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(41,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(41,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(41,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(42,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(42,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(42,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(42,17): error C2065: ebx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(43,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mul"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(43,13): error C2065: mul: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(43,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(43,17): error C2065: ebx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(44,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(44,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(44,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(44,20): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(45,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(51,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(53,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(53,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(53,18): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(54,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "shl"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(54,13): error C2065: shl: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(54,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(54,18): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(55,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(55,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(55,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(55,21): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(56,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(62,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(64,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(64,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(64,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(65,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(65,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(65,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(65,17): error C2065: ecx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(66,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(66,13): error C2065: sub: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(66,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(66,17): error C2065: edx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(66,22): error C2065: edx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(67,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "div"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(67,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(67,13): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(67,17): error C2065: ecx: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(68,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(68,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(68,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(68,20): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(69,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(76,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(78,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(78,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(78,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(79,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(79,13): error C2065: cmp: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(79,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(79,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(80,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "JG"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(80,13): error C2065: JG: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(80,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "m1"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(80,16): error C2065: m1: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(81,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(81,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(81,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(81,17): error C2065: eax: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(82,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "JMP"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(82,13): error C2065: JMP: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(82,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "m"
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(82,17): error C2065: m: необъявленный идентификатор
+C:\Users\Acer\source\repos\Laba 1 SP\Laba 1 SP\Laba 1 SP.cpp(83,1): fatal error C1003: число ошибок превышает 100; остановка компиляции
